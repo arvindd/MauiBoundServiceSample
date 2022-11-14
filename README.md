@@ -40,7 +40,9 @@ See the MauiAppSample.
 **TO BE DOCUMENTED**
 
 # Architecture of the sample
+An overview of any application using the Android Bound Service with AIDL is as given in the picture below.
 
+![](img/arch.svg)
 
 # Folders and files
 
